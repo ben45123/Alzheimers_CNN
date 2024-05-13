@@ -24,6 +24,8 @@ The trained model achieved an accuracy of 0.56 on the test set, matching the acc
 Usage:
 To use this model:
 
-Download the provided Jupyter notebook (AlzheimerNeuralNetwork.ipynb) and the dataset stored in the provided zip file.
+Download the provided Jupyter notebook (AlzheimerNeuralNetwork.ipynb) and the alzheimers dataset which can be found in the following link:
+https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images/data?select=Alzheimer_s+Dataset
+
 Run the notebook on platforms such as Google Colab or VSCode with TensorFlow and Keras installed.
 Follow the instructions in the notebook to train and evaluate the model. Adjust hyperparameters or model architecture as needed for further experimentation.
