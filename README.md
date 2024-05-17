@@ -19,7 +19,7 @@ Training:
 The dataset is split into training and testing sets. Data augmentation techniques are applied to augment the training dataset and prevent overfitting. The model is trained using the Adam optimizer with a categorical cross-entropy loss function. Early stopping is employed to prevent overfitting during training.
 
 Results:
-The trained model achieved an accuracy of 0.56 on the test set, matching the accuracy of the most upvoted TensorFlow models on Kaggle. (Sources: https://www.kaggle.com/code/yassinabdulmahdi/alzheimer-s-best-model and https://www.kaggle.com/code/rudrashah003/alzheimer-s) The model demonstrates solid accuracy for classes with ample data, while also highlighting the impact of data scarcity on predictive capabilities for classes with minimal data.
+The trained model achieved an accuracy of 0.61 on the test set, improving upon the .56 accuracy of the most upvoted TensorFlow models on Kaggle. (Sources: https://www.kaggle.com/code/yassinabdulmahdi/alzheimer-s-best-model and https://www.kaggle.com/code/rudrashah003/alzheimer-s) The model demonstrates solid accuracy for classes with ample data, while also highlighting the impact of data scarcity on predictive capabilities for classes with minimal data.
 
 Usage:
 To use this model:
